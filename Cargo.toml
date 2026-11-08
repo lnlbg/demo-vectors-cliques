@@ -1,0 +1,12 @@
+[package]
+name = "demo--vectors-cliques"
+version = "0.1.0"
+edition = "2024"
+authors = ["Lachezar Lazarow : lnlbg@yahoo.com"]
+description = "Rust Bron-Kerbosch: classical recursive, bitset recursive, classical iterative."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/lnlbg/demo--vectors-cliques"
+readme = "README.md"
+
+[dependencies]
+dhat = "0.3"
